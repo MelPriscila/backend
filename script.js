@@ -1,3 +1,4 @@
+/*
 class Usuario{
   constructor(nombre, apellido){
    this.nombre = nombre
@@ -45,3 +46,4 @@ Usuario1.addBook("1984", "George Orwell");
 Usuario1.addBook("Fahrenheit 451", "Ray Bradbury");
 const TitleBooks = Usuario1.getBookNames();
 console.log(`Los titulos de los libros son ` + (TitleBooks));
+*/
